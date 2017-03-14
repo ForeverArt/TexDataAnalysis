@@ -1,0 +1,14 @@
+{
+    "input":
+    [
+        {"name":"name0","value":2.2,"date":"二月 1, 3916"},
+        {"name":"name1","value":3.2,"date":"二月 1, 3916"},
+        {"name":"name2","value":4.2,"date":"二月 1, 3916"}
+    ],
+    "output":
+    [
+        {"name":"name0","value":2.2,"date":"二月 1, 3916"},
+        {"name":"name1","value":3.2,"date":"二月 1, 3916"},
+        {"name":"name2","value":4.2,"date":"二月 1, 3916"}
+    ]
+}
